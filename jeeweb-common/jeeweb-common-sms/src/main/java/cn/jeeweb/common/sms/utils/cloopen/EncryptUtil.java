@@ -1,5 +1,10 @@
 package cn.jeeweb.common.sms.utils.cloopen;
 
+
+/*
+ https://blog.csdn.net/zyx_bx/article/details/121217850
+ java 8以后不支持
+ */
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
 
